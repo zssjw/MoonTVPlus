@@ -19,3 +19,6 @@ database_id = "f77f6a63-08fa-4d49-b3e3-0e8340dbc2c8"
 [vars]
 NODE_ENV = "production"
 BUILD_TARGET = "cloudflare"
+NEXT_PUBLIC_STORAGE_TYPE = "d1"
+USERNAME = "bbin"
+PASSWORD = "0760sj.net"
